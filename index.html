@@ -366,6 +366,7 @@ h2 {
 .card-top, .card-footer {
   position: relative;
   z-index: 2;
+  pointer-events: none; /* Allows clicks to pass through to the background card-link */
 }
 
 .github {
@@ -381,7 +382,7 @@ h2 {
   color: var(--muted);
   background: #1a1428;
   z-index: 3;
-  pointer-events: auto;
+  pointer-events: auto; /* Keeps the GitHub button interactive */
   transition: color 0.18s, border-color 0.18s, background 0.18s, transform 0.18s;
 }
 
