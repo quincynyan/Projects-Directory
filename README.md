@@ -69,7 +69,7 @@ A directory of 45 websites, tools, experiments, themes, publications, and assort
    - *Type:* `telecom infrastructure editorial`
    - A standalone editorial project focused on German telecommunications and internet infrastructure rather than a conventional web app.
 
-3. **[The Corporate Squeeze](https://quinc.nekonyan.fun)** ([GitHub](https://github.com/quincynyan/The-Corperate-Squeeze))
+3. **[Quincy Nyan](https://quinc.nekonyan.fun)** ([GitHub](https://github.com/quincynyan/The-Corperate-Squeeze))
    - *Type:* `astro portfolio & links`
    - An Astro-based personal website bringing together my public profile, interests, projects, and links.
 
