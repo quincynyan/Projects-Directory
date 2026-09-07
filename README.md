@@ -71,11 +71,11 @@ A directory of 45 websites, tools, experiments, themes, publications, and assort
 
 3. **[The Corporate Squeeze](https://quinc.nekonyan.fun)** ([GitHub](https://github.com/quincynyan/The-Corperate-Squeeze))
    - *Type:* `astro portfolio & links`
-   - An Astro-based personal website bringing together Quincy’s public profile, interests, projects, and links.
+   - An Astro-based personal website bringing together my public profile, interests, projects, and links.
 
 4. **[Steel Chapter](https://steelchapter.de)** ([GitHub](https://github.com/quincynyan/steelchapter.de))
    - *Type:* `minimal domain landing`
-   - A deliberately minimal standalone site; its repository contains the domain configuration, page, and a small set of image assets, while the README keeps its subject intentionally vague.
+   - A deliberately minimal standalone site; while the README keeps its subject intentionally vague.
 
 5. **[Hinthar International School](https://hinthar.education)** ([GitHub](https://github.com/quincynyan/hinthar.education))
    - *Type:* `international school portal`
@@ -83,7 +83,7 @@ A directory of 45 websites, tools, experiments, themes, publications, and assort
 
 6. **[Quincy Nyan / About Me](https://quinc.nekonyan.fun)** ([GitHub](https://github.com/quincynyan/about-me))
    - *Type:* `personal identity root`
-   - A personal “about me” site and one of Quincy’s earlier personal-web projects.
+   - A personal “about me” site and one of my earlier personal-web projects.
 
 7. **[Hinthar Resources](https://hinthar.education/resources)** ([GitHub](https://github.com/quincynyan/hinthar-resources))
    - *Type:* `academic asset library`
@@ -95,7 +95,7 @@ A directory of 45 websites, tools, experiments, themes, publications, and assort
 
 9. **[CV](https://nekonyan.fun/CV)** ([GitHub](https://github.com/quincynyan/CV))
    - *Type:* `multi-format resume archive`
-   - A web-hosted CV project containing the author’s curriculum vitae in multiple document and source formats.
+   - A web-hosted CV project containing my curriculum vitae in multiple document and source formats.
 
 10. **[My Web](https://nekonyan.fun/my-web)** ([GitHub](https://github.com/quincynyan/my-web))
     - *Type:* `personal brand legacy`
